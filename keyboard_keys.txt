@@ -1,0 +1,14 @@
+Special KeyBoard Keys:
+
+If mouse locked:
+ESCape - Unlock mouse
+
+If mouse not locked:
+
+F1 - Ctrl + Alt + Delete
+F2 - Alt + F4
+F3 - Alt + Tab
+F4 - Shift + Alt
+F5 - Left Shift + Right Shift
+F6 - Ctrl + Shift
+F7 - Ctrl + Shift + Escape
