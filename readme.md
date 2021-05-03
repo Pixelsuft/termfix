@@ -113,6 +113,13 @@ driver=sync
 
 Now boot up your operating system and copy the files from the CD-ROM to the hard drive. 
 
+
+## Special Keys
+
+
+[See](keyboard_keys.md)
+
+
 ## Known Issues
  - SSE3 is not fully supported
  - Performance isn't terrible, but it isn't fantastic either (70-100 MIPS native, 10-30 MIPS browser)
