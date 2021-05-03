@@ -26,10 +26,10 @@ node winmake win32
 node winmake win32 release
 
 # For more options and fine tuning
-node makefile.js --help
+node makefile --help
 
 # Chunk an image 
-node tools/imgsplit.js os.img
+node tools/imgsplit os.img
 ```
 
 Check the [project wiki](https://github.com/nepx/halfix/wiki) for more details. 
