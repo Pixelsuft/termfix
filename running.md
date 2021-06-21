@@ -1,4 +1,4 @@
-# Building for Android
+# Running On Android
 
 ## Requirements
  - [Termux](https://play.google.com/store/apps/details?id=com.termux)
