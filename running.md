@@ -9,21 +9,22 @@
 
 Default Commands:
 ```sh
-apt update -y
+apt update
 apt upgrade -y
+apt update
 pkg install x11-repo -y
-apt update -y
+apt update
 exit
 ```
 
 Restart Termux, then:
 ```sh
-apt install -y sdl sdl2 tigervnc
+apt install -y sdl sdl2 tigervnc wget
 ```
 
-Download TermFix build, then:
+Downloading Termfix:
 ```sh
-cp -path-to-termfix-file- termfix # Where -path-to-termfix-file- - Path To TermFix Build, for example: /storage/emulated/0/termfix/termfix
+wget https://github.com/Pixelsuft/termfix/releases/download/v1.0/termfix
 chmod +x ./termfix
 ```
 
